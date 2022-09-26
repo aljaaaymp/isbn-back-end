@@ -33,8 +33,18 @@ CREATE DATABASE isbn
 	
 **4. Run the app**
 
-$ mvn spring-boot:run
+```bash
+mvn spring-boot:run
+```
 
+You can also package the application in the form of a `jar` file and then run it like so -
+
+```bash
+mvn package
+java -jar target/demo-0.0.1-SNAPSHOT.jar
+```
+
+The server will start on port 8080.
 
 The server will start on port 8080.
 	
