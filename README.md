@@ -1,6 +1,5 @@
-# Spring boot, Hibernate, MySQL REST API
+# Spring boot backend for ISBN 
 
-A simple Spring boot application that demonstrates the usage of RESTful API using Spring boot, Hibernate and MySQL. 
 
 ## Tools and Technologies used
 
